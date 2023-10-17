@@ -1,0 +1,31 @@
+body {
+
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+
+}
+
+p {
+
+    font-size: 18px;
+}
+
+h1 {
+
+    font-size: 38px;
+}
+
+button {
+
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+}
+
+header {
+
+    background-color: black;
+    color: white;
+    padding: 1%;
+}

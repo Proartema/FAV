@@ -1,0 +1,114 @@
+body {
+
+margin: 0 auto;
+background-color:#d3f3f4;
+
+
+
+}
+
+header {
+
+background-color: rgb(13, 66, 99);
+padding: 2%;
+border-radius: 6px;
+
+
+
+
+}
+
+header h1 {
+
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family:'Gabarito', Sans Serif;
+}
+
+.s1 img {
+
+width: 300px;
+height: 300px;
+border-radius: 10px;
+}
+
+
+
+
+.sec1 {
+
+    margin: 4%;
+    
+}
+
+.s1 {
+
+text-align: center;
+margin: 0 auto;
+padding: 2%;
+background-color: rgba(199, 200, 200, 0.2);
+color:  rgb(13, 66, 99);
+width: 300px;
+border-radius: 10px;
+font-family: AR One Sans;
+box-shadow: 0.1rem 0.1rem 0.6rem rgba(51, 51, 51, 0.5);
+
+
+
+}
+
+.sec1 .s1:hover {
+
+box-shadow: 0.2rem 0.2rem 0.9rem rgba(44, 44, 44, 0.4);
+transition: box-shadow 0.4s ease;
+transition: padding 0.3s ease;
+cursor: pointer;
+padding: 2.5%;
+}
+
+.but {
+
+    
+    text-align: center;
+    
+}
+
+.but1 {
+
+    
+    margin: 0% 10%;
+
+}
+
+footer {
+
+    background-color: rgb(13, 66, 99);
+    padding: 2%;
+    margin: 5% 0% auto;
+    text-align: center;
+    border-radius: 6px;
+    font-family: AR One Sans;
+}
+
+footer a {
+
+    text-decoration: none;
+    margin: 0% 1.5%;
+    color: rgb(255, 255, 255) ;
+    font-size: 14px;
+    
+
+}
+
+footer a:hover {
+
+    color: rgb(171, 229, 240);
+
+}
+
+footer p {
+
+    text-align: center;
+    margin: 2% 0%;
+    color: rgb(255, 255, 255);
+}

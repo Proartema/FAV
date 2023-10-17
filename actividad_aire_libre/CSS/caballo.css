@@ -1,0 +1,198 @@
+body {
+
+    margin: 0 auto;
+    
+
+}
+
+header {
+
+    text-align: center;
+    background-color:rgb(24, 182, 140);
+    padding: 1.8% 0%;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 6px;
+
+}
+
+section h1 {
+
+    color: rgb(24, 182, 140);
+    margin-top: 6%;
+    font-size: 30px;
+}
+
+section {
+
+    margin: 1.5% 18%;
+}
+
+hr {
+
+    color: rgb(24, 182, 140);
+    margin-bottom: 4%;
+    
+}
+
+.titulosc {
+
+
+    font-weight: bold;
+}
+
+.benc p {
+
+    color: rgb(54, 54, 54);
+}
+
+.comm {
+
+    font-weight: bold;
+    margin-top: 8%;
+    margin-bottom: 1%;
+    font-size: 18px;
+    color: rgb(60, 60, 60);
+}
+
+.comentarios {
+
+    margin: 0% 18%;
+    color: rgb(60, 60, 60);
+}
+
+.pf {
+
+    font-size: 18px;
+    display: inline-block;
+    font-weight: bold;
+    color: rgb(24, 182, 140);
+    margin-bottom: -5%;
+}
+
+.com {
+
+    color: rgb(54, 54, 54);
+}
+
+img {
+
+    width: 28px;
+    
+    
+}
+
+#respu .resp{
+
+    margin: 0% 22%;
+    color: rgb(24, 182, 140);
+    font-weight: bold;
+    margin-bottom: 0.8%;
+    font-size: 18px;
+    
+}
+
+#respu .ro {
+
+    color: rgb(54, 54, 54);
+    margin: 0% 22%;
+}
+
+
+#respu hr {
+
+    margin: 0% 22%;
+    border-color: lightgray;
+    margin-bottom: 1%;
+}
+
+.for {
+
+    margin: 0% 18%;
+}
+
+hr {
+
+    border-color: #21D79C;
+}
+
+.for p {
+
+    color: rgb(54, 54, 54);
+    margin-bottom: 2%;
+
+}
+
+.for .ig {
+
+    width: 250px;
+    height: 30px;
+    background-color: whitesmoke;
+    border-color: lightgray;
+   
+}
+
+.for .ig::placeholder {
+
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.for .ta {
+
+    width: 400px;
+    height: 80px;
+    background-color: whitesmoke;
+    border-color: lightgray;
+
+}
+
+.for .ta::placeholder {
+
+    font-weight: bold;
+    font-size: 13.5px;
+
+}
+
+.for .sub {
+
+    width: 150px;
+    height: 30px;
+    float: right;
+    border-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 12.5px;
+    background-color: rgb(24, 182, 140);
+}
+
+footer {
+
+    margin-top: 10%;
+    background-color: rgb(24, 182, 140);
+    color: white;
+    text-align: center;
+    padding: 2% 0%;
+    border-radius: 6px;
+
+}
+
+footer a {
+
+    color: rgb(153, 236, 153);
+    font-size: 15px;
+    text-decoration: none;
+    margin: 0% 1%;
+}
+
+footer a:hover {
+
+    transition: font-size 0.3s ease;
+    color: rgb(209, 240, 209);
+    font-size: 16px;
+}
+
+footer p {
+
+    font-size: 17px;
+}

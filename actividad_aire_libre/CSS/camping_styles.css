@@ -1,0 +1,70 @@
+body {
+
+    margin: 0 auto;
+}
+
+header {
+
+    background-color: rgb(4, 43, 63);
+    color: white;
+    text-align: center;
+    padding: 2%;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+section {
+
+    margin: 1% 20%;
+}
+
+section img {
+
+    width: 890px;
+    border-radius: 6px;
+    box-shadow: 0.2em 0.1em 0.6em;
+    margin: 1% 0%;
+    height: 400px;
+    margin-bottom: 4%;
+}
+
+section h2 {
+
+    color: rgb(4, 43, 63);
+    font-size: 32px;
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+section p {
+
+    color: rgb(34, 34, 34);
+}
+
+footer {
+
+    background-color:rgb(4, 43, 63);
+    color: white;
+    margin-top: 4%;
+    padding: 2%;
+    text-align: center;
+    font-size: 17px;
+    border-radius: 6px;
+}
+
+footer a {
+
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 0% 1%;
+
+}
+
+footer a:hover {
+
+    transition: font-size 0.4s ease;
+    color:rgb(182, 199, 242);
+    font-size: 16px;
+}

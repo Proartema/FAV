@@ -1,0 +1,88 @@
+body {
+
+    margin: 0 auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+section {
+
+    text-align: center;
+    margin: 2%;
+    
+}
+
+header {
+
+    background-color: rgb(22, 22, 22);
+    color: white;
+    padding: 2%;
+    text-align: center;
+}
+
+section .sel {
+
+    margin: 0% 0.6%;
+    width: 308px;
+    height: 40px;
+    font-size: 17px;
+}
+
+section input {
+
+    width: 300px;
+    height: 40px;
+    font-size: 17px;
+    margin: 3% 0.6%;
+    margin-top: 0%;
+}
+
+section #tel_num {
+
+    width: 260px;
+    height: 40px;
+    font-size: 17px;
+    margin-left: 2.1%;
+}
+
+section #tele {
+
+    margin-left: 3%;
+}
+
+section p {
+
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    margin: 1% 17%;
+
+   
+}
+
+section #dat {
+
+    font-size: 14px;
+    font-weight: normal;
+    background-color: transparent;
+    color: black;
+    text-decoration: none;
+    margin: 0%;
+}
+
+section  #but_en {
+
+cursor: pointer;
+background-color: rgb(243, 243, 243);
+border: 1px solid gray;
+}
+
+section #but_en:hover {
+
+    background-color: rgb(226, 226, 226);
+}
+
+#cli_da {
+
+    margin: 1% 16.4%
+}

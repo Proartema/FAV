@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="UTF-8"/>
+        <title>Registro</title>
+        <link rel="stylesheet" href="../CSS/styles_register.css"/>
+
+    </head>
+
+    <body>
+
+        <div class="Regi">
+        <h1>Registrarse</h1>
+
+        <p id="hp">Es muy sencillo</p>
+
+        <hr>
+
+        <form>
+
+            <input type="text" name="Nombre" required placeholder="Nombre" class="np"/>
+
+            <input type="text" name="Apellido" required placeholder="Apellido" class="np" id="np2"/> <br>
+
+            <input type="email" name="Email" required placeholder="Correo electrónico" class="ce"/> <br>
+
+            <input type="password" name="Contraseña" required placeholder="Nueva contraseña" class="ce"/> <br>
+
+            
+
+              <p>Fecha de nacimiento <img src="../Images/informacion.png"/></p>
+
+             
+
+            <input type="number" name="Día" value="16" required class="nac" max="31" min="1"/>
+
+            <input type="month" name="Mes y año" required class="nac" id="nac2"/> <br>
+
+            <p>Sexo <img src="../Images/informacion.png"/></p>
+
+            <input type="radio" name="Sexo" value="Hombre" required class="sex">Hombre</input>
+
+            <input type="radio" name="Sexo" value="Mujer" required class="sex">Mujer</input> <br>
+
+            <p id="cond">Al hacer clic en "Registrarse", aceptas nuestras Condiciones. Es posible que te 
+                enviemos notificaciones al correo electrónico, que puedes desactivar cuando quieras.</p>
+
+            <input type="submit" name="Register" value="Registrarse" class="regb"/>
+
+        </form>
+
+        </div>
+
+    </body>
+
+</html>
