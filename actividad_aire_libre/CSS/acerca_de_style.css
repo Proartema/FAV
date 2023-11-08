@@ -1,0 +1,146 @@
+body {
+
+    margin: 0 auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+header {
+
+    background-color: rgb(43, 43, 42);
+    padding: 2%;
+    border-radius: 6px;
+    text-align: center;
+    color: white;
+    margin-bottom: 3%;
+
+}
+
+.info {
+
+    text-align: center;
+    margin: 1% 16%;
+}
+
+.info img {
+
+    display:inline-block;
+    width: 100px;
+
+
+}
+
+.info p {
+
+    color: rgb(35, 35, 35);
+    font-size: 16.5px;
+}
+
+.info h2 {
+
+    font-size: 30px;
+    color: rgb(35, 35, 35);
+    margin-bottom: 2%;
+}
+
+.info h3 {
+
+    font-size: 20px;
+}
+
+.info .fav {
+
+    background-color: black;
+    color: white;
+    font-weight:bold;
+    padding: 1.5% 0%;
+    margin: 2% 38%;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+.info .fav:hover {
+
+    transition: font-size 0.4s ease;
+    transition: padding 0.4s ease;
+    font-size: 20px;
+    padding: 1.8%;
+}
+
+.inp h2{
+
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+}
+
+.inp {
+
+    margin: 1% 16%;
+    text-align: center;
+    font-size: 17px;
+}
+
+footer {
+
+    background-color: rgb(35, 35, 35);
+    color: white;
+    font-size: 17px;
+    padding: 2%;
+    border-radius: 6px;
+    margin-top: 4%;
+    text-align: center;
+}
+
+.inp button {
+
+    background-color: rgb(35, 35, 35);
+    color: white;
+    font-weight: bold;
+    border-color: whitesmoke;
+    border-radius: 6px;
+    width: 170px;
+    height: 50px;
+    cursor: pointer;
+    margin-top:1.5%;
+}
+
+.inp button:hover {
+
+    transition: width 0.4s ease;
+    transition: height 0.4s ease;
+    transition: font-size 0.3s ease;
+    width: 180px;
+    height: 60px;
+    font-size: 15px;
+}
+
+footer a {
+
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 0% 1%;
+}
+
+footer a:hover {
+
+    color: lightgray;
+    font-size: 16.2px;
+}
+
+iframe {
+
+    margin-bottom: 3%;
+    margin-top: 1.5%;
+    background-color: rgb(35, 35, 35);
+    border-radius: 6px;
+    box-shadow: 0.1em 0.2em 0.8em;
+}
+
+iframe:hover {
+
+    transition: width 0.3s ease;
+    transition: height 0.3 ease;
+    width: 700px;
+    height: 500px;
+}

@@ -1,0 +1,245 @@
+body {
+
+    margin: 0 auto;
+    font-family: Josefin Sans;
+
+}
+
+header {
+
+    
+    padding: 1.8%;
+    background-color: rgb(14, 14, 14);
+    
+}
+
+header nav {
+
+   display: inline;
+   padding: 0 auto;
+   width: 250px;
+   float: right;
+   
+}
+
+header nav a {
+
+    margin: 0% 3%;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    
+
+}
+header .enca {
+
+    display: inline-block;
+    width: 100%;
+    
+}
+
+header .enca p {
+
+    font-size: 40px;
+    width: 1330px;
+    height: 25px;
+    margin: 0 auto;
+    color: white;
+    font-family: Pacifico;
+    
+}
+
+#port {
+
+    
+    
+    padding: 15%;
+    text-align: center;
+    color: white;
+    position: relative;
+    
+
+}
+
+#port p {
+
+    font-size: 36px;
+
+    
+}
+
+#port h1 {
+
+    font-size: 48px;
+    
+}
+
+
+#port img {
+
+    width: 70px;
+    cursor: pointer;
+
+}
+
+#port video {
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 108.55%;
+    z-index: -1;
+}
+
+.art {
+
+    
+    display: inline-block;
+    background-color: rgb(14, 14, 14);
+    margin-top: 5%;
+    width: 94%;
+    padding: 3%;
+    color: white;
+    
+}
+
+.art img {
+
+    float: right;
+    margin-right: 5%;
+    margin-left: 15%;
+    width: 350px;
+    
+}
+
+.art p {
+
+    
+    font-size: 22px;
+    margin: 1% 12%;
+    
+    
+}
+
+.art h2 {
+
+    font-size: 32px;
+    margin-top: 13%;
+    margin-left: 12%;
+}
+
+.art1 {
+
+    margin-top: 1%;
+    display: inline-block;
+    padding: 3%;
+    
+}
+
+.art1 img {
+
+    float: left;
+    width: 350px;
+    margin-right: 8%;
+    margin-left: 6%;
+    margin-top: 0%;
+}
+
+.art1 p {
+
+    font-size: 22px;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 9%;
+
+}
+
+.art1 ul {
+    
+    margin-left: 35%;
+    font-size: 22px;
+   
+}
+
+.art1 h2 {
+
+    
+    margin-top: 8%;
+    font-size: 32px;
+}
+
+.regis {
+
+    margin-top: 1%;
+    background-image: linear-gradient(to bottom right, rgb(36, 36, 36), rgb(14, 14, 14));
+    color: white;
+    text-align: left;
+    padding: 4%;
+    display: inline-block;
+    width: 92%;
+}
+
+.regis p, h3 {
+
+    margin-left: 5%;
+    
+    text-align: center;;
+}
+.regis h2 {
+
+    font-size: 32px;
+}
+
+.regis p {
+
+    font-size: 22px;
+}
+
+.regis h3 {
+
+    
+    
+    font-size: 32px;
+    
+    
+
+}
+
+.regis button {
+
+    
+    margin-left: 43.5%;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: -0.5%;
+    background-color: rgb(36, 197, 36);
+    color: white;
+    width:250px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.regis button:hover {
+
+    background-color: rgb(39, 163, 39);
+}
+
+header nav a:hover {
+
+    color: rgb(221, 221, 221);
+}
+
+footer {
+
+    text-align: center;
+    padding: 2%;
+    background-color: rgb(14, 14, 14);
+    color: white;
+    margin-top: 1%;
+}
+
+footer p a {
+
+    color: rgb(43, 179, 228);
+}

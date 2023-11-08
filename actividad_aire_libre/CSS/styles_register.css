@@ -1,0 +1,119 @@
+body {
+
+    margin: 0 auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.Regi {
+
+    margin: 5.2% 30%;
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+    border-radius: 6px;
+    margin-left: 32.5%;
+    margin-right: 32.5%;
+    box-shadow: 0.2rem 0.2rem 0.5rem rgb(70, 70, 70, 0.5)
+}
+
+.Regi img {
+
+    width: 17px;
+    cursor: pointer;
+   
+    
+}
+
+.Regi p {
+
+    margin: 2% 0%;
+    
+}
+
+.Regi #hp {
+
+    margin: 0.5% 0%;
+    color: rgb(80, 80, 80);
+
+}
+
+.Regi h1 {
+
+    margin: 1.5% 0%;
+}
+
+.Regi .np {
+
+    width: 216px;
+    height: 35px;
+    border-radius: 6px;
+    border: 1px solid lightgray;
+    margin: 2% 0%;
+    font-size: 17px;
+}
+
+.Regi #np2 {
+
+    margin-left: 2%;
+}
+
+.Regi .ce {
+
+    width: 450px;
+    height: 35px;
+    border-radius: 6px;
+    border: 1px solid lightgray;
+    margin: 2% 0%;
+    font-size: 17px;
+}
+
+.Regi .nac {
+
+    width: 216px;
+    height: 35px;
+    border-radius: 6px;
+    border: 1px solid lightgray;
+    font-size: 17px;
+}
+
+.Regi hr {
+
+    border: 1px solid lightgray;
+}
+
+.Regi #nac2 {
+
+    margin-left: 2%;
+}
+
+.Regi .sex {
+
+    cursor: pointer;
+    
+}
+
+.Regi #cond {
+
+    color: rgb(80, 80, 80);
+    font-size: 14px;
+}
+
+.Regi .regb {
+
+    margin-top: 3%;
+    width: 200px;
+    height: 35px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(27, 180, 27);
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 3% 28%;
+}
+
+.Regi .regb:hover {
+
+    background-color: rgb(28, 158, 28);
+}

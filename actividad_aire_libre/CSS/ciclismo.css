@@ -1,0 +1,84 @@
+body {
+
+margin: 0 auto;
+
+}
+
+
+
+
+.tit {
+
+    background-image: url("../Images/ciclista-fondo1_1.png");
+    padding: 8.2%;
+    margin: 2% 0%;
+    text-align: center;
+    color: white;
+    border-radius: 6px;
+    
+    
+    
+}
+
+.tit h2 {
+
+    margin: 0% 8%;
+    
+}
+header {
+
+background-color: rgb(46, 103, 149);
+color: white;
+text-align: center;
+padding: 1.7%;
+border-radius: 6px;
+font-size: 20px;
+
+
+}
+
+#hh {
+    text-align: center;
+    margin: 4% 14%;
+    border-radius: 6px;
+    color: rgb(46, 103, 149);
+}
+
+.cont {
+
+    margin: 2% 14%
+}
+
+footer {
+
+    background-color: rgb(46, 103, 149);
+    padding: 2.5%;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+}
+
+footer a {
+
+    font-size: 15px;
+    margin: 0% 1%;
+    text-decoration: none;
+    color: rgb(175, 175, 255);
+}
+
+footer a:hover {
+
+    transition: font-size 0.3s ease;
+    color: rgb(170, 209, 254);
+    font-size: 16px;
+
+}
+
+#pt {
+
+    color: rgb(96, 96, 96);
+    font-size: 18px;
+    margin: 2% 0%;
+    margin-top: 5%;
+}
+
